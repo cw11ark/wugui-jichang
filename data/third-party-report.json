@@ -1,0 +1,37 @@
+{
+  "site_id": "wugui",
+  "name": "乌龟加速",
+  "image": "images/speedtests/wugui.png",
+  "attribution": "YGPY 乌龟加速段落及对应alt；图内未独立核实品牌",
+  "test_time_as_printed": "2025-12-01 10:42:39 (CST)",
+  "test_date": "2025-12-01",
+  "report_type": "download_speed_latency_and_streaming",
+  "has_download_throughput": true,
+  "backend_as_read": "华南-中山电信 [1Gbps]",
+  "tool_as_read": "MiaoKo / FFQ.LA；主端4.3.3(696)，喵速5.0.0-beta7",
+  "threads": 4,
+  "traffic_used_gb": null,
+  "duration_seconds": null,
+  "ping_count": null,
+  "table_rows": 33,
+  "metrics_present": [
+    "TLS RTT",
+    "HTTPS延迟",
+    "平均速度",
+    "最高速度",
+    "每秒速度图",
+    "流媒体/ChatGPT解锁"
+  ],
+  "example": {
+    "node": "Hong Kong 移动优化",
+    "tls_rtt_ms": 48,
+    "https_latency_ms": 150,
+    "average_speed_raw": "109.56MB",
+    "peak_speed_raw": "113.37MB"
+  },
+  "caveats": [
+    "页脚常规OCR被底纹干扰，已用局部RGB/增强对比裁切重读确认中山电信1Gbps/4线程/33行。",
+    "正文称需官方专属客户端，复测前先确认是否能合法导出订阅及兼容测试内核。",
+    "不是当前IEPL/套餐限速的独立验证。"
+  ]
+}
