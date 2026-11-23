@@ -2,7 +2,7 @@
 
 > **一句话评价：性价比家庭之选：18 元 200G 起，四档月付覆盖 200G—1200G**
 >
-> 👉 **[官网注册](https://wuguijiasu.com/#/login?code=dd6NtGYo)** · 先用 18 元 Mini；多人看视频可选 38 元 Pro。
+> 👉 **[官网注册](https://wuguijiasu.com/#/login?code=QNAZaT1X)** · 先用 18 元 Mini；多人看视频可选 38 元 Pro。
 
 **适合：**
 
@@ -55,7 +55,7 @@
 
 ## 注册
 
-👉 **[官网注册](https://wuguijiasu.com/#/login?code=dd6NtGYo)** · 先用 18 元 Mini；多人看视频可选 38 元 Pro。
+👉 **[官网注册](https://wuguijiasu.com/#/login?code=QNAZaT1X)** · 先用 18 元 Mini；多人看视频可选 38 元 Pro。
 
 *本文使用推广链接，注册或购买后本站可能获得佣金。*
 
