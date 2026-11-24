@@ -45,8 +45,6 @@
 
 <img src="assets/speed.png" width="880" alt="乌龟加速 节点测速">
 
-
-
 ## 怎么选
 
 - 18 元 Mini 是 200G 档， 300Mbps；先确认官方客户端支持系统与来源。
@@ -56,8 +54,6 @@
 ## 注册
 
 👉 **[官网注册](https://wuguijiasu.com/#/login?code=QNAZaT1X)** · 先用 18 元 Mini；多人看视频可选 38 元 Pro。
-
-*本文使用推广链接，注册或购买后本站可能获得佣金。*
 
 ## 更新
 
